@@ -10,3 +10,9 @@ We were instructed to create a simple currency calculator using HTML, CSS and JS
 - Create a menu that allows you to hide calculator and settings sections.
 
 [GitHub] (https://jaqbmucha.github.io/homework/)
+
+
+### What i have done.
+```sh
+04/30/2021 - A footer with a new logo and link to my website has been added. The new learned CSS - flex technology was used.
+```
