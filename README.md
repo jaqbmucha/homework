@@ -10,7 +10,3 @@ We were instructed to create a simple currency calculator using HTML, CSS and JS
 - Create a menu that allows you to hide calculator and settings sections.
 
 [GitHub] (https://jaqbmucha.github.io/homework/)
-=======
-# homework
-
->>>>>>> 5a3b89de0ad21d88f1cb579b63c17cc6cf108ea7
