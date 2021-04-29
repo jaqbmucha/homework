@@ -16,3 +16,6 @@ We were instructed to create a simple currency calculator using HTML, CSS and JS
 ```sh
 04/30/2021 - A footer with a new logo and link to my website has been added. The new learned CSS - flex technology was used.
 ```
+```sh
+04/30/2021 - Added website icon.
+```
