@@ -8,4 +8,4 @@ We were instructed to create a simple currency calculator using HTML, CSS and JS
 - Create 'dream' table showing the amount of cryptocurrency (also three most popular) we could buy in three history dates. 
 - Added to 'dream' table lost value. Value we had lost by not investing in cryptocurrencies on the set dates.
 - Create a form that allows you to change the exchange values for all currencies.
-
+- Create a menu that allows you to hide calculator and settings sections.
